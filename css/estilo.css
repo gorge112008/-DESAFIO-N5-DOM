@@ -1,0 +1,44 @@
+.titulo h2 {
+  color: #f00;
+}
+.titulo h2 b {
+  color: #91d;
+}
+.contenido h3 {
+  color: #43f;
+}
+li b {
+  color: #f50;
+}
+.alumno {
+  color: #a4f;
+}
+.alumno b {
+  color: #040;
+}
+.titulo {
+  display: flex;
+  width: 100%;
+}
+.contenido {
+  width: 100%;
+  display: inline-block;
+}
+.contenido img {
+  float: right;
+  display: inline-flex;
+  width: 25%;
+  height: 45%;
+  margin-top: -55px;
+}
+.recarga {
+  text-align: center;
+  border: red solid 1px;
+}
+.hidden {
+  display: none;
+}
+#gracias {
+  text-align: center;
+  color: #a4f;
+}
